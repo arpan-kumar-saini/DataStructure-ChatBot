@@ -1,4 +1,4 @@
-#  DataStructure-ChatBot
+# 🤖 DataStructure-ChatBot🤖
 
 
 
@@ -7,10 +7,10 @@
 <br />
 <div align="center" id='readme-top'>
   <a href="">
-    <img src="https://github.com/arpan-kumar-saini/Flower-Classification/blob/main/Flowers.jpeg" alt="Logo" width="180" height="180">
+    <img src="https://github.com/arpan-kumar-saini/DataStructure-ChatBot/blob/main/DSA-Chatbot.jpeg" alt="Logo" width="180" height="180">
   </a>
 
-  <h3 align="center"> 🌸 DataStructure-ChatBot 🌸</h3>
+  <h3 align="center"> 🤖 DataStructure-ChatBot 🤖</h3>
 
   <p align="center">
     This project is an Artificial Intelligent project in the domain of Natural Language Proceesing.
@@ -41,19 +41,23 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<img src='https://github.com/arpan-kumar-saini/Flower-Classification/blob/main/Flower%20classification.gif'>
+<img src='https://github.com/arpan-kumar-saini/DataStructure-ChatBot/blob/main/DSA%20chatbot.gif'>
 
-🌸 Blooming Brilliance: Flower Classification with AI
+🤖 Data Structures & Algorithms Chatbot<br>
+Welcome to the Data Structures & Algorithms Chatbot! This project is designed to help you with all your DSA-related queries using a blend of rule-based responses and NLP capabilities. 🌟
 
-🖥️ Developed an advanced image classification system using AI, focusing on the enchanting world of flowers.
+📚 Overview<br>
+Chatbot for DSA-related queries using rule-based responses and NLP. <br>
+Utilizes NLTK and Hugging Face transformers.<br>
+Interactive assistant for understanding data structures and algorithms.<br>
 
-🔍 Trained a robust deep learning model, specifically a Convolutional Neural Network (CNN), on a comprehensive dataset.
 
-🚀 Leveraged transfer learning techniques to elevate performance, adapting pre-trained models for exceptional accuracy.
+🚀 Features<br>
+Rule-Based Responses: Predefined answers for common DSA questions.<br>
+NLP Integration: Uses a transformer model for handling complex queries.<br>
+Interactive Chat: Engaging and user-friendly chat experience.<br>
+Easy Setup: Simple and straightforward to get started with Google Colab.<br>
 
-🎯 Fine-tuned model parameters and hyperparameters to achieve optimal precision in identifying diverse floral species.
-
-🌱 This project not only showcased the power of AI in botanical studies but also sparked new insights into leveraging technology for ecological conservation and beyond.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
